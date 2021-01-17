@@ -1,0 +1,7 @@
+.cover {
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  padding: 3rem;
+}

@@ -1,0 +1,25 @@
+.Nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Nav li {
+  list-style: none;
+  font-size: 1.3rem;
+}
+.Nav li a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 1rem;
+  color: rgb(48, 43, 43);
+  font-weight: bolder;
+  margin-top: 12px;
+}
+.Nav li:first-child {
+  flex: 1;
+}
+.Nav {
+  background: rgb(252, 177, 39);
+  padding: 0.2rem;
+  z-index: 1;
+}

@@ -1,0 +1,15 @@
+.Main img {
+  max-width: 100%;
+  margin-top: 3rem;
+}
+.Top {
+  max-width: 50%;
+  margin: auto;
+}
+.Main {
+  text-align: center;
+  padding: 2rem;
+}
+.Main p {
+  overflow: scroll;
+}
